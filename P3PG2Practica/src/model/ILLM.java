@@ -8,7 +8,7 @@ package model;
  *
  * @author isabe
  */
-public class ILLM {
+public interface ILLM {
     public String speak (String input);
     public String getIdentifier();
     
